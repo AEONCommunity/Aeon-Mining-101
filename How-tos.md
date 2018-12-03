@@ -22,7 +22,10 @@ the current rebased blockchain.
 
 * [GPU mining Aeon on Windows](https://youtu.be/B3IwYbd_maU) Props to Kire for this video tutorial
 
-## Aeon mining on Other Operating Systems (Example Ethos or Simpleminer)
+* [CPU and GPU mining Windows BlockoNomi.com](https://blockonomi.com/how-to-mine-aeon/) CPU and GPU mining Props to 
+Zach on BlockoNomi for this excelent guide
+
+## Aeon mining on Other Operating Systems (Example Ethos or Simpleminer or Other operating systems)
 
 * Ethos: Since Ethos is a linux package build, You can either sudo compile any ubuntu miner of your choice or use their pre-installed
 packages for their supported miners. Using their supported packages usually includes a dev fee which you can compile out yourself. It
