@@ -36,6 +36,10 @@
 * [Minergate downloads](https://minergate.com/downloads) Pick your operating system for easy one click mining
 
 
+## CPU Multi-Miner
+
+* [The "Original" miner](https://github.com/lucasjones/cpuminer-multi) You will need to fork this miner and add in the correct pow changes for Aeon specifically 
+
 ## Others
 
 * TO DO
